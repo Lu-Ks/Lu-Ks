@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Lu-Ks/Lu-Ks/blob/main/assets/cover.gif" alt="Lucas loading" height="20"/>
+  <img src="https://github.com/Lu-Ks/Lu-Ks/blob/main/assets/cover.gif" alt="Lucas loading" height="250"/>
 </p>
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">Full-stack developer</h3>
@@ -13,9 +13,9 @@
 <p>💬 Ask me about React, React Native, Express, NodeJS</p>
 <p>📫 How to reach me: lucas.caussat@gmail.com</p>
 <p>✨ Fun fact: I'm also a volunteer firefighter 🚒 since im 18</p><br>
-<img align="right" src="https://github.com/Lu-Ks/Lu-Ks/blob/main/assets/memoji_work.png" alt="memoji_work" width="300"/>
 <h3>🛠 STACK</h3><br>
 <p>💊 JavaScript, EcmaScript, TypeScript, Python, Ruby, PHP</p>
+<img align="right" src="https://github.com/Lu-Ks/Lu-Ks/blob/main/assets/memoji_work.png" alt="memoji_work" width="300"/>
 <p>💻 React, React-Native, Express, NodeJS, Docker, StoryBook</p>
 <p>🖥 OSX, Ubuntu, Windows</p>
 <p>📱 IOS, Android</p>
