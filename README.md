@@ -11,7 +11,7 @@
 <p>🔭 <a href="https://www.iut.u-bordeaux.fr/info/">DAWIN Bachelor's Degree</a> at IUT de Bordeaux, France 🇫🇷</p>
 <p>🌱 I’m currently working on my code quality</p>
 <p>💬 Ask me about React, React Native, Express, NodeJS</p>
-<p>📫 How to reach me: lucas.caussat@gmail.com</p>
+<p align="left">📫 How to reach me: lucas.caussat@gmail.com</p>
 <img align="right" src="https://github.com/Lu-Ks/Lu-Ks/blob/main/assets/memoji_work.png" alt="memoji_work" width="300"/>
 <p>✨ Fun fact: I'm also a volunteer firefighter 🚒 since im 18</p><br>
 <h3>🛠 STACK</h3>
