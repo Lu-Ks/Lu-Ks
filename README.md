@@ -12,9 +12,9 @@
 <p>🌱 I’m currently working on my code quality</p>
 <p>💬 Ask me about React, React Native, Express, NodeJS</p>
 <p>📫 How to reach me: lucas.caussat@gmail.com</p>
-<p>✨ Fun fact: I'm also a volunteer firefighter 🚒 since im 18</p><br>
 <img align="right" src="https://github.com/Lu-Ks/Lu-Ks/blob/main/assets/memoji_work.png" alt="memoji_work" width="300"/>
-<h3 align="left">🛠 STACK</h3>
+<p>✨ Fun fact: I'm also a volunteer firefighter 🚒 since im 18</p><br>
+<h3>🛠 STACK</h3>
 <br>
 <p>💊 JavaScript, EcmaScript, TypeScript, Python, Ruby, PHP</p>
 <p>💻 React, React-Native, Express, NodeJS, Docker, StoryBook</p>
@@ -22,6 +22,6 @@
 <p>📱 IOS, Android</p>
 <p>⌨️ VS code, Google Chrome, Iterm, FileZilla, PostMan</p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lu-ks&hide=php&theme=dark&layout=compact&hide_border=true&bg_color=000"/>
-<img align="middle" src="https://github-readme-stats.vercel.app/api?username=Lu-Ks&count_private=true&theme=dark&show_icons=true&icon_color=e10e19&hide=stars&hide_title=true&hide_border=true&bg_color=000"/>
+<img align="middle" src="https://github-readme-stats.vercel.app/api?username=Lu-Ks&count_private=true&theme=dark&show_icons=true&icon_color=e10e19&hide=stars&hide_title=true&hide_border=true&bg_color=000&hide_rank=true"/>
 <p align="center"><i>Ride safe, wear helmet ⛑️</i><br><i>Save a life, wear a mask 😷</i></p>
 <p align="right">Modified: 09/04/2021</p>
