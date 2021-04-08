@@ -12,10 +12,10 @@
 <p>🌱 I’m currently working on my code quality</p>
 <p>💬 Ask me about React, React Native, Express, NodeJS</p>
 <p>📫 How to reach me: lucas.caussat@gmail.com</p>
+<img align="right" src="https://github.com/Lu-Ks/Lu-Ks/blob/main/assets/memoji_work.png" alt="memoji_work" width="300"/>
 <p>✨ Fun fact: I'm also a volunteer firefighter 🚒 since im 18</p><br>
 <h3>🛠 STACK</h3><br>
 <p>💊 JavaScript, EcmaScript, TypeScript, Python, Ruby, PHP</p>
-<img align="right" src="https://github.com/Lu-Ks/Lu-Ks/blob/main/assets/memoji_work.png" alt="memoji_work" width="300"/>
 <p>💻 React, React-Native, Express, NodeJS, Docker, StoryBook</p>
 <p>🖥 OSX, Ubuntu, Windows</p>
 <p>📱 IOS, Android</p>
