@@ -1,18 +1,19 @@
 <p align="center">
-  <img src="https://github.com/Lu-Ks/Lu-Ks/blob/main/assets/cover.gif" height="200"/>
+  <img src="https://github.com/Lu-Ks/Lu-Ks/blob/main/assets/cover.gif" alt="Lucas loading" height="20"/>
 </p>
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">Full-stack developer</h3>
-<p align="center">📍 Toulouse, 🇫🇷 France | 💻 Currently work at <a href='https://github.com/Humans-Connexion'>@Humans-Connexion</a></p>
+<p align="center">📍 Toulouse, 🇫🇷 France | 💻 Currently work at <a href="https://github.com/Humans-Connexion">@Humans-Connexion</a></p>
 <p align="center"><a href="https://twitter.com/Lu_K_s_">Twitter</a> • <a href="https://www.linkedin.com/in/lucas-caussat/">LinkeIn</a> • <a href="https://www.twitch.tv/lu_kss">Twitch</a>
 <hr>
-<img align="right" src="https://github.com/Lu-Ks/Lu-Ks/blob/main/assets/memoji.png" width="300"/>
+<img align="right" src="https://github.com/Lu-Ks/Lu-Ks/blob/main/assets/memoji.png" alt="memoji_wink" width="300"/>
 <h3>⭐ ABOUT ME</h3><br>
-<p>🔭 <a href='https://www.iut.u-bordeaux.fr/info/'>DAWIN Bachelor's Degree</a> at IUT de Bordeaux, France 🇫🇷</p>
+<p>🔭 <a href="https://www.iut.u-bordeaux.fr/info/">DAWIN Bachelor's Degree</a> at IUT de Bordeaux, France 🇫🇷</p>
 <p>🌱 I’m currently working on my code quality</p>
 <p>💬 Ask me about React, React Native, Express, NodeJS</p>
 <p>📫 How to reach me: lucas.caussat@gmail.com</p>
 <p>✨ Fun fact: I'm also a volunteer firefighter 🚒 since im 18</p><br>
+<img align="right" src="https://github.com/Lu-Ks/Lu-Ks/blob/main/assets/memoji_work.png" alt="memoji_work" width="300"/>
 <h3>🛠 STACK</h3><br>
 <p>💊 JavaScript, EcmaScript, TypeScript, Python, Ruby, PHP</p>
 <p>💻 React, React-Native, Express, NodeJS, Docker, StoryBook</p>
