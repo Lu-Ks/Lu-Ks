@@ -3,8 +3,8 @@
 </p>
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">Full-stack developer</h3>
-<p align="center">📍 Toulouse, 🇫🇷 France | 💻 Currently work at <a href="https://github.com/Humans-Connexion">@Humans-Connexion</a></p>
-<p align="center"><a href="https://twitter.com/Lu_K_s_">Twitter</a> • <a href="https://www.linkedin.com/in/lucas-caussat/">LinkeIn</a> • <a href="https://www.twitch.tv/lu_kss">Twitch</a>
+<p align="center">📍 Toulouse, 🇫🇷 France | 💻 Currently work on freelance missions</p>
+<p align="center"><a href="https://twitter.com/Lu_K_s_">Twitter</a> • <a href="https://www.linkedin.com/in/lucas-caussat/">LinkedIn</a> • <a href="https://www.twitch.tv/lu_kss">Twitch</a>
 <hr>
 <img align="right" src="https://github.com/Lu-Ks/Lu-Ks/blob/main/assets/memoji.png" alt="memoji_wink" width="300"/>
 <h3>⭐ ABOUT ME</h3><br>
